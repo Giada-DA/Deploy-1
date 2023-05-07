@@ -1,0 +1,5 @@
+scrivere un'applicazione Spring Boot con le dipendenze necessarie che:
+ha un controller di base che restituisce una proprietà devName che ha il valore del tuo nome
+corre sulla porta 7070
+la versione è 0.0.3
+crea il file .jare avvialo utilizzando la riga di comando
